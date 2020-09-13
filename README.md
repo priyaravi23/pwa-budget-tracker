@@ -8,6 +8,16 @@
 
 ![](images/budget-tracker.png)
 
+### App Deployed to Heroku
+
+https://budget-tracker-pwa-app.herokuapp.com/
+
+### Application Functionalities
+
+- The ability to enter deposits offline.
+- The ability to enter expenses offline.
+- Offline entries should be added to the tracker when the application is brought back online
+
 ### User Story
 
 ```text
