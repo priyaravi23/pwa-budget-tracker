@@ -12,6 +12,10 @@
 
 https://budget-tracker-pwa-app.herokuapp.com/
 
+### App Demo
+
+![](images/budget-tracker.gif)
+
 ### Application Functionalities
 
 - The ability to enter deposits offline.
